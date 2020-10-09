@@ -1,0 +1,18 @@
+hamonikr-info (2020.10.09) jin; urgency=medium
+
+  * apply latest info 
+  * Add dependancy hamonikr-info (>> 2020.10.08) 
+
+ -- Kevin Kim <root@hamonikr.org>  Fri, 09 Oct 2020 13:34:06 +0900
+
+hamonikr-info (2020.10.08) jin; urgency=medium
+
+  * changed info location
+
+ -- Kevin Kim <root@hamonikr.org>  Thu, 08 Oct 2020 16:14:06 +0900
+
+hamonikr-info (2020.10.07) jin; urgency=medium
+
+  * hamonikr jin 
+
+ -- Kevin Kim <root@hamonikr.org>  Wed, 07 Oct 2020 14:53:28 +0900

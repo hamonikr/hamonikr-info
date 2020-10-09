@@ -1,0 +1,10 @@
+RELEASE=4.0
+CODENAME=jin
+EDITION="Cinnamon"
+DESCRIPTION="HamoniKR 4.0 Jin"
+DESKTOP=Gnome
+TOOLKIT=GTK
+NEW_FEATURES_URL=https://hamonikr.org/menuDownload_JIN
+RELEASE_NOTES_URL=https://hamonikr.org/menuDownload_JIN
+USER_GUIDE_URL=http://pms.invesume.com:8090/40jin
+GRUB_TITLE=HamoniKR 4.0 Jin
