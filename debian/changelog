@@ -1,3 +1,9 @@
+hamonikr-info (2020.10.25) jin; urgency=medium
+
+  * convert to source package
+
+ -- HamoniKR <pkg@hamonikr.org>  Sun, 25 Oct 2020 15:47:50 +0900
+
 hamonikr-info (2020.10.09) jin; urgency=medium
 
   * apply latest info 
