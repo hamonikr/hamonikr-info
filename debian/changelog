@@ -1,24 +1,17 @@
-hamonikr-info (2020.10.25) jin; urgency=medium
+hamonikr-info (2022.10.04) stable; urgency=medium
 
-  * convert to source package
+  * Release for HamoniKR 6.0
 
- -- HamoniKR <pkg@hamonikr.org>  Sun, 25 Oct 2020 15:47:50 +0900
+ -- HamoniKR Team <pkg@hamonikr.org>  Tue, 04 Oct 2022 16:28:51 +0900
 
-hamonikr-info (2020.10.09) jin; urgency=medium
+hamonikr-info (2021.04.08) public; urgency=medium
 
-  * apply latest info 
-  * Add dependancy hamonikr-info (>> 2020.10.08) 
+  * Release for HamoniKR 5.0
 
- -- Kevin Kim <root@hamonikr.org>  Fri, 09 Oct 2020 13:34:06 +0900
+ -- HamoniKR Team <pkg@hamonikr.org>  Thu, 08 Apr 2021 11:32:01 +0900
 
-hamonikr-info (2020.10.08) jin; urgency=medium
+hamonikr-info (2021.03.02) entjin; urgency=medium
 
-  * changed info location
+  * Release for HamoniKR Server 2.0
 
- -- Kevin Kim <root@hamonikr.org>  Thu, 08 Oct 2020 16:14:06 +0900
-
-hamonikr-info (2020.10.07) jin; urgency=medium
-
-  * hamonikr jin 
-
- -- Kevin Kim <root@hamonikr.org>  Wed, 07 Oct 2020 14:53:28 +0900
+ -- HamoniKR Team <pkg@hamonikr.org>  Tue, 02 Mar 2021 11:24:38 +0900
